@@ -2,4 +2,7 @@
 
 My first time to desgin a 3D Drone on onshape<br>
 
-![](Drone image.png)
+/my-repo
+  README.md
+  /images
+     Drone image.png
